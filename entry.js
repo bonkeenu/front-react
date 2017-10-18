@@ -10,5 +10,6 @@ ReactDOM.render(
       <RaisedButton label="Default" />
     </MuiThemeProvider>
   </div>,
+
   document.getElementById('content')
 );
